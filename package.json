@@ -11,11 +11,12 @@
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
-    "discord.js": "^12.5.1",
+    "discord.js": "^12.5.3",
+    "ffmpeg": "^0.0.4",
     "fs": "^0.0.2",
+    "loader.js": "^4.7.0",
     "moment": "^2.29.1",
     "moment-duration-format": "^2.3.2",
-    "opusscript": "^0.0.8",
-    "ffmpeg": "^0.0.4"
+    "opusscript": "^0.0.8"
   }
 }
